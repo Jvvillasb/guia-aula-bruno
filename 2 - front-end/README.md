@@ -42,15 +42,9 @@ git remote add origin git@github.com:seuusuario/seurepositorio.git
 
 git push -u origin main
 ```
-
-## Passo: "limpar" o projeto ReactJS
-
 Vamos pegar o CSS que fizemos nas aulas de preparação:
 
 https://github.com/Jvvillasb/dsmeta-css
-
-
-- **COMMIT: Project clean**
 
 ## Passo: Primeiro componente
 
